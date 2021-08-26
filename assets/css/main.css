@@ -31,6 +31,10 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+.subHeader {
+	color: #6d1a1a;
+}
+
 body {
 	line-height: 1;
 }
